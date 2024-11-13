@@ -40,7 +40,7 @@ The transformed data is then made accessible to business users via **Power BI** 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/estore-etl-pipeline.git
+   git clone https://github.com/azfarali16/estore-data-pipeline.git
    
 2. provide your **Amazon RDS** and **MySQL connection strings** in the `etl-pipeline.py` file. This is essential for connecting to the respective databases for data extraction and loading.
 
