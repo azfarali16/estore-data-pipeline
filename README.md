@@ -5,7 +5,7 @@ This project implements a comprehensive **data warehouse** solution for **eStore
 The transformed data is then made accessible to business users via **Power BI** for dynamic **reporting** and **dashboard creation**, enabling effective decision-making. This solution helps streamline operations, improve data quality, and provides actionable insights into inventory levels, sales performance, and market trends.
 
 ## OLTP Database ERD:
-
+![E_store_ERD](images/E_store_ERD.png)
 
 ## Key Components:
 
@@ -23,6 +23,7 @@ The transformed data is then made accessible to business users via **Power BI** 
   - Sales performance over time and across different product categories.
   - Supplier performance and product demand forecasting.
 
+![Data Flow Diagram](images/dataflow.jpg)
 
 ## Features:
 - **Data Extraction**: Automated extraction of data from Amazon RDS.
