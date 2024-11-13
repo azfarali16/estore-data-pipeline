@@ -1,0 +1,41 @@
+productid,name,description,price,categoryid,manufacturerid,stocklevel,reorderlevel,discontinued
+1,"Butalbital, Acetaminophen and Caffeine",Nulla tellus.,85.95,20,10,759,600.0,True
+2,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",833.29,19,9,369,873.0,False
+3,Sertraline Hydrochloride,Nulla ut erat id mauris vulputate elementum.,2896.17,16,8,1517,,True
+4,SohMed Cold Relief,Etiam faucibus cursus urna.,2813.71,17,5,1835,301.0,True
+5,Promethazine Hydrochloride,In hac habitasse platea dictumst.,906.71,3,7,494,648.0,True
+6,Ondansetron,Suspendisse potenti.,140.80,15,6,1594,780.0,False
+7,TopCare Antacid Calcium,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",2465.32,9,1,1379,873.0,False
+8,Maximum Strength,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",1290.36,3,4,991,686.0,False
+9,Secura Moisturizing Cleanser,Fusce posuere felis sed lacus.,2627.59,9,10,716,265.0,True
+10,SALSOLA KALI POLLEN,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae Duis faucibus accumsan odio.,948.27,7,4,1781,397.0,True
+11,Extra Strength Mapap,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",2651.82,14,8,1380,875.0,True
+12,Oral Analgesic,Proin at turpis a pede posuere nonummy.,2980.75,7,6,859,,False
+13,Focalin,Aliquam quis turpis eget elit sodales scelerisque.,2455.81,4,8,1010,958.0,True
+14,Natural Cherry Honey Herb Throat Drops,Integer tincidunt ante vel ipsum.,2502.47,18,3,365,233.0,True
+15,Flecainide Acetate,Cras non velit nec nisi vulputate nonummy.,2325.87,10,7,1194,750.0,False
+16,Sinus Relief PE,Etiam vel augue.,1447.17,14,2,1447,790.0,False
+17,Folet One,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",1786.86,10,6,562,825.0,False
+18,Fluoxetine,Suspendisse potenti.,726.23,6,1,1081,752.0,True
+19,Granisetron Hydrochloride,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",1940.66,7,1,1750,683.0,True
+20,Antibacterial Foaming Hand Sanitizer,Suspendisse potenti.,1647.64,7,4,793,596.0,False
+21,Metformin Hydrochloride,In eleifend quam a odio.,1283.94,17,7,201,398.0,True
+22,SSD Cream,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",1841.69,10,7,662,688.0,True
+23,Conju Princess UV Sun Block,Praesent lectus.,1753.69,17,3,1038,273.0,True
+24,Perphenazine,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",352.02,5,3,1530,687.0,False
+25,Isopropyl Alcohol Surgical Scrub,Proin at turpis a pede posuere nonummy.,2554.94,5,9,1288,211.0,True
+26,KIDS CHOICE,Aliquam sit amet diam in magna bibendum imperdiet.,1527.06,5,8,745,318.0,False
+27,Icy Hot Back and Large Areas,Maecenas tincidunt lacus at velit.,1818.90,12,10,623,148.0,False
+28,COMETRIQ,Suspendisse accumsan tortor quis turpis.,2778.36,13,2,649,899.0,False
+29,Midol Complete,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",2431.54,9,5,548,356.0,False
+30,Acetylcysteine,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",240.05,13,2,1523,688.0,True
+31,PASPALUM NOTATUM POLLEN,Praesent blandit.,1810.17,14,3,1453,288.0,False
+32,ILLUMINATING DAILY MOISTURIZER,Curabitur in libero ut massa volutpat convallis.,2437.99,3,9,1223,804.0,
+33,Entex T,Proin at turpis a pede posuere nonummy.,2012.38,19,5,1469,409.0,False
+34,Betapace AF,Suspendisse potenti.,1543.64,2,6,710,478.0,True
+35,Quetiapine Fumarate,Quisque id justo sit amet sapien dignissim vestibulum.,1831.84,15,2,1080,104.0,False
+36,Acetaminophen PM,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",2677.44,12,3,964,624.0,True
+37,Ondansetron Hydrochloride,,733.98,9,3,838,805.0,False
+38,Losartan Potassium,In hac habitasse platea dictumst.,2749.20,14,8,735,114.0,True
+39,AntiBac Foam Wash,,2215.80,7,9,223,159.0,True
+40,Dexamethasone,Vivamus in felis eu sapien cursus vestibulum.,805.41,2,1,1786,451.0,True

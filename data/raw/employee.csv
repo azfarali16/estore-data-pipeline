@@ -1,0 +1,11 @@
+employeeid,name,contactinfo,departmentid,roleid,hiredate,salary,commission,managerid
+1,Rose,,7,8,2001-02-12,167709.59,,4
+2,Ephraim,emacquire1@yahoo.com,10,10,2009-05-13,184219.59,23.56,4
+3,Fletch,ffarthin2@hhs.gov,3,6,2006-05-20,11487.68,27.10,9
+4,Jethro,jcoopland3@buzzfeed.com,6,4,2009-08-15,86359.79,20.64,3
+5,Daloris,,8,7,2016-12-11,176636.47,27.38,7
+6,Basilio,bmilbourn5@instagram.com,1,8,2002-09-01,199840.60,28.63,8
+7,Aurora,,1,7,2019-09-16,58222.67,24.32,7
+8,Neille,ncornew7@github.com,9,3,2020-09-23,31063.81,,6
+9,Kaycee,kstilliard8@msn.com,5,4,2017-09-27,,23.87,7
+10,Reidar,,6,4,2009-09-01,58922.97,,9

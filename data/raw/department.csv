@@ -1,0 +1,11 @@
+departmentid,name,managerid,locationid,budget
+1,Sales,10,7,
+2,Research and Development,4,5,428015.00
+3,Business Development,1,4,866375.00
+4,Research and Development,8,4,975409.00
+5,Business Development,5,9,324372.00
+6,Human Resources,5,1,884517.00
+7,Support,9,3,589160.00
+8,Support,3,7,858680.00
+9,Accounting,9,8,951024.00
+10,Engineering,3,5,971674.00

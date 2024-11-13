@@ -1,0 +1,101 @@
+returnid,orderid,customerid,returndate,reason,refundamount,refundmethod,refundstatus,comments
+1,1,1,2000-01-31,,808674.62,Cash,Pending,
+2,2,2,2020-11-18,,988981.44,Cash,Pending,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+3,3,3,2020-03-20,,149004.56,PayPal,Pending,
+4,4,4,2010-06-17,,764766.76,Cash,Pending,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+5,5,5,2006-03-28,,649822.59,Store Credit,Pending,
+6,6,6,2001-01-09,,238825.53,Store Credit,Processed,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+7,7,7,2002-04-10,,940296.12,Cash,Pending,
+8,8,8,2002-11-08,,290979.56,Credit Card,Refunded,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+9,9,9,2020-09-04,,378982.08,Store Credit,Pending,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+10,10,10,2005-09-14,,496240.69,Credit Card,Refunded,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+11,11,11,2014-05-15,,249835.75,Credit Card,Completed,
+12,12,12,2016-04-18,,554875.18,Cash,Processed,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+13,13,13,2007-05-12,,392557.64,Cash,Processed,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+14,14,14,2022-12-11,,262522.45,Cash,Refunded,
+15,15,15,2010-08-21,,961752.59,Store Credit,Refunded,
+16,16,16,2017-11-18,,551776.39,Store Credit,Pending,
+17,17,17,2002-07-11,,14966.11,PayPal,Refunded,
+18,18,18,2013-08-04,,12325.64,PayPal,Completed,
+19,19,19,2003-09-05,,990173.57,Store Credit,Processed,
+20,20,20,2017-02-23,,746753.05,PayPal,Refunded,
+21,21,21,2010-02-12,,707790.09,Credit Card,Completed,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+22,22,22,2006-11-26,,538729.65,Credit Card,Processed,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+23,23,23,2020-08-20,,94827.77,PayPal,Processed,
+24,24,24,2012-04-05,,799856.89,Store Credit,Completed,
+25,25,25,2017-03-31,,858679.68,Credit Card,Completed,
+26,26,26,2012-09-19,,222734.80,Store Credit,Completed,
+27,27,27,2005-08-14,,114261.89,Store Credit,Refunded,
+28,28,28,2013-02-09,,186536.57,Cash,Processed,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+29,29,29,2008-04-14,,197669.04,Credit Card,Completed,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+30,30,30,2003-02-01,,131888.05,PayPal,Refunded,
+31,31,31,2009-06-15,,323917.69,Credit Card,Processed,
+32,32,32,2011-10-12,,764668.39,Cash,Completed,
+33,33,33,2017-12-20,,902920.08,Credit Card,Completed,
+34,34,34,2020-07-21,,483542.45,Cash,Processed,
+35,35,35,2012-05-13,,747488.01,PayPal,Processed,
+36,36,36,2019-10-18,,356781.37,Store Credit,Pending,
+37,37,37,2019-08-06,,770687.85,Store Credit,Processed,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+38,38,38,2017-04-25,,954228.15,PayPal,Refunded,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+39,39,39,2020-10-28,,128245.67,Credit Card,Processed,
+40,40,40,2014-11-06,,548220.20,Credit Card,Refunded,
+41,41,41,2007-03-27,,202428.07,Credit Card,Processed,
+42,42,42,2015-11-30,,643040.69,Credit Card,Completed,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+43,43,43,2013-12-09,,121084.62,Store Credit,Pending,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+44,44,44,2019-02-12,,618018.54,Store Credit,Refunded,
+45,45,45,2019-04-26,,951900.49,Store Credit,Pending,
+46,46,46,2006-07-12,,173052.35,PayPal,Refunded,
+47,47,47,2012-11-05,,908530.75,Store Credit,Pending,
+48,48,48,2022-04-23,,688102.81,PayPal,Processed,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+49,49,49,2016-09-03,,362096.55,PayPal,Completed,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+50,50,50,2010-06-17,,541562.12,Cash,Processed,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+51,51,51,2017-09-17,,950901.66,Store Credit,Refunded,
+52,52,52,2000-06-29,,39296.47,PayPal,Refunded,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+53,53,53,2006-06-15,,492632.89,PayPal,Processed,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+54,54,54,2015-06-16,,841881.09,PayPal,Completed,
+55,55,55,2016-01-19,,281297.39,PayPal,Completed,
+56,56,56,2014-01-05,,894933.88,Store Credit,Processed,
+57,57,57,2022-04-03,,400651.67,Store Credit,Completed,Fusce consequat. Nulla nisl. Nunc nisl.
+58,58,58,2013-01-03,,99494.37,Credit Card,Processed,
+59,59,59,2017-05-28,,668961.83,PayPal,Processed,
+60,60,60,2006-06-25,,730883.58,Credit Card,Refunded,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+61,61,61,2015-04-15,,456122.12,PayPal,Completed,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+62,62,62,2017-07-06,,701945.71,PayPal,Pending,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+63,63,63,2021-01-16,,535388.23,Cash,Pending,
+64,64,64,2023-11-16,,521455.83,PayPal,Processed,
+65,65,65,2019-02-09,,472208.71,Credit Card,Processed,
+66,66,66,2007-07-31,,50619.40,PayPal,Processed,
+67,67,67,2001-11-10,,324348.53,PayPal,Pending,
+68,68,68,2008-11-02,,574218.18,Cash,Processed,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+69,69,69,2002-01-29,,218292.80,Credit Card,Completed,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+70,70,70,2003-01-21,,3883.89,Credit Card,Completed,
+71,71,71,2019-12-14,,824625.38,PayPal,Processed,
+72,72,72,2006-04-30,,287465.04,Cash,Pending,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+73,73,73,2015-07-18,,445278.71,PayPal,Completed,
+74,74,74,2019-09-09,,479337.27,Store Credit,Refunded,
+75,75,75,2018-12-26,,312591.27,Store Credit,Completed,
+76,76,76,2006-09-04,,554789.27,Store Credit,Pending,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+77,77,77,2002-01-28,,639139.84,Credit Card,Processed,
+78,78,78,2023-05-20,,985779.70,PayPal,Pending,
+79,79,79,2006-02-26,,659644.78,Cash,Refunded,
+80,80,80,2005-12-29,,734230.94,Cash,Refunded,Sed ante. Vivamus tortor. Duis mattis egestas metus.
+81,81,81,2018-07-25,,583063.49,Credit Card,Pending,
+82,82,82,2005-01-19,,522358.79,PayPal,Completed,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+83,83,83,2017-02-18,,676793.94,Store Credit,Processed,
+84,84,84,2017-10-12,,733228.31,Credit Card,Processed,
+85,85,85,2001-05-22,,806580.60,Store Credit,Completed,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+86,86,86,2010-11-06,,454648.88,Cash,Processed,
+87,87,87,2021-02-14,,707334.70,Store Credit,Completed,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+88,88,88,2012-07-29,,771405.33,PayPal,Pending,
+89,89,89,2020-10-29,,819388.39,PayPal,Processed,
+90,90,90,2022-10-24,,16701.00,Credit Card,Refunded,
+91,91,91,2012-12-22,,363544.84,Store Credit,Refunded,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+92,92,92,2007-07-02,,447202.55,Cash,Completed,
+93,93,93,2003-12-12,,952711.37,Credit Card,Processed,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+94,94,94,2020-10-02,,745919.33,PayPal,Completed,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+95,95,95,2004-09-16,,276032.74,Credit Card,Processed,
+96,96,96,2022-11-11,,177389.56,Cash,Pending,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+97,97,97,2001-12-25,,67062.11,Store Credit,Completed,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+98,98,98,2008-05-01,,973991.30,PayPal,Completed,
+99,99,99,2003-07-25,,796214.74,Credit Card,Completed,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+100,100,100,2007-02-15,,736798.90,Cash,Processed,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.

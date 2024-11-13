@@ -1,0 +1,10 @@
+{
+    "last_etl_run": "2024-11-10",
+    "surrogate_keys": {
+        "ProductKey": 40,
+        "SupplierKey": 10,
+        "CustomerKey": 500,
+        "WarehouseKey": 10,
+        "TimeKey": 18300
+    }
+}

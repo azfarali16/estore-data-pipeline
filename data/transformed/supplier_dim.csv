@@ -1,0 +1,11 @@
+SupplierKey,SupplierID,Name,Country,Rating,ContractStartDate,ContractEndDate
+1,1,Schamberger Inc,Indonesia,1.2,2014-12-30,2007-03-13
+2,2,Bogisich-Block,Unknown,4.4,2022-01-13,2037-01-12
+3,3,Abshire Inc,China,2.4,2021-10-26,2034-01-01
+4,4,Schmidt LLC,Denmark,1.9,2020-01-26,2029-09-20
+5,5,"Mann, Will and Fritsch",Nicaragua,1.0,2001-12-19,2029-11-02
+6,6,Abernathy-Waelchi,Brazil,1.2,2035-02-21,2016-02-04
+7,7,Kassulke LLC,Czech Republic,0.7,2000-01-31,2037-01-30
+8,8,Lang-Rodriguez,Nigeria,3.0,1900-01-01,2020-08-09
+9,9,Sawayn-Adams,United Kingdom,2.5,2012-02-14,2030-08-23
+10,10,"Stokes, Funk and Herman",Russia,0.1,2050-02-10,2048-10-14

@@ -1,0 +1,41 @@
+ProductKey,ProductID,Name,Discontinued,CategoryID,CategoryName,ManufacturerID,ManufacturerName,Price,StockLevel
+1,1,"Butalbital, Acetaminophen and Caffeine",True,20,Hard Tile & Stone,10,Blogtags,85.95,759
+2,2,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),False,19,Epoxy Flooring,9,Flipstorm,833.29,369
+3,3,Sertraline Hydrochloride,True,16,Elevator,8,Twinder,2896.17,1517
+4,4,SohMed Cold Relief,True,17,Termite Control,5,Mymm,2813.71,1835
+5,5,Promethazine Hydrochloride,True,3,Framing (Wood),7,Mita,906.71,494
+6,6,Ondansetron,False,15,Hard Tile & Stone,6,Tazz,140.8,1594
+7,7,TopCare Antacid Calcium,False,9,Termite Control,1,Cogibox,2465.32,1379
+8,8,Maximum Strength,False,3,Framing (Wood),4,Fanoodle,1290.36,991
+9,9,Secura Moisturizing Cleanser,True,9,Termite Control,10,Blogtags,2627.59,716
+10,10,SALSOLA KALI POLLEN,True,7,Fire Protection,4,Fanoodle,948.27,1781
+11,11,Extra Strength Mapap,True,14,Glass & Glazing,8,Twinder,2651.82,1380
+12,12,Oral Analgesic,False,7,Fire Protection,6,Tazz,2980.75,859
+13,13,Focalin,True,4,Painting & Vinyl Wall Covering,8,Twinder,2455.81,1010
+14,14,Natural Cherry Honey Herb Throat Drops,True,18,Wall Protection,3,Topdrive,2502.47,365
+15,15,Flecainide Acetate,False,10,Exterior Signage,7,Mita,2325.87,1194
+16,16,Sinus Relief PE,False,14,Glass & Glazing,2,Cogilith,1447.17,1447
+17,17,Folet One,False,10,Exterior Signage,6,Tazz,1786.86,562
+18,18,Fluoxetine,True,6,Electrical and Fire Alarm,1,Cogibox,726.23,1081
+19,19,Granisetron Hydrochloride,True,7,Fire Protection,1,Cogibox,1940.66,1750
+20,20,Antibacterial Foaming Hand Sanitizer,False,7,Fire Protection,4,Fanoodle,1647.64,793
+21,21,Metformin Hydrochloride,True,17,Termite Control,7,Mita,1283.94,201
+22,22,SSD Cream,True,10,Exterior Signage,7,Mita,1841.69,662
+23,23,Conju Princess UV Sun Block,True,17,Termite Control,3,Topdrive,1753.69,1038
+24,24,Perphenazine,False,5,Soft Flooring and Base,3,Topdrive,352.02,1530
+25,25,Isopropyl Alcohol Surgical Scrub,True,5,Soft Flooring and Base,9,Flipstorm,2554.94,1288
+26,26,KIDS CHOICE,False,5,Soft Flooring and Base,8,Twinder,1527.06,745
+27,27,Icy Hot Back and Large Areas,False,12,Asphalt Paving,10,Blogtags,1818.9,623
+28,28,COMETRIQ,False,13,Unknown,2,Cogilith,2778.36,649
+29,29,Midol Complete,False,9,Termite Control,5,Mymm,2431.54,548
+30,30,Acetylcysteine,True,13,Unknown,2,Cogilith,240.05,1523
+31,31,PASPALUM NOTATUM POLLEN,False,14,Glass & Glazing,3,Topdrive,1810.17,1453
+32,32,ILLUMINATING DAILY MOISTURIZER,Unknown,3,Framing (Wood),9,Flipstorm,2437.99,1223
+33,33,Entex T,False,19,Epoxy Flooring,5,Mymm,2012.38,1469
+34,34,Betapace AF,True,2,Landscaping & Irrigation,6,Tazz,1543.64,710
+35,35,Quetiapine Fumarate,False,15,Hard Tile & Stone,2,Cogilith,1831.84,1080
+36,36,Acetaminophen PM,True,12,Asphalt Paving,3,Topdrive,2677.44,964
+37,37,Ondansetron Hydrochloride,False,9,Termite Control,3,Topdrive,733.98,838
+38,38,Losartan Potassium,True,14,Glass & Glazing,8,Twinder,2749.2,735
+39,39,AntiBac Foam Wash,True,7,Fire Protection,9,Flipstorm,2215.8,223
+40,40,Dexamethasone,True,2,Landscaping & Irrigation,1,Cogibox,805.41,1786

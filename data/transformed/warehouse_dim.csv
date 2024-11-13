@@ -1,0 +1,11 @@
+WarehouseKey,WarehouseID,Capacity,LocationID,LocationName,Country,City
+1,1,46808,4,Mrs,China,Sanxi
+2,2,25835,2,Rev,China,Henglan
+3,3,92458,5,Mr,Indonesia,Parabon
+4,4,22548,9,Mr,China,Shangmofang
+5,5,54842,4,Mrs,China,Sanxi
+6,6,97686,9,Mr,China,Shangmofang
+7,7,92228,9,Mr,China,Shangmofang
+8,8,63723,10,Rev,Russia,Novogornyy
+9,9,22411,3,Ms,Indonesia,Malapaubhara
+10,10,35612,6,Dr,Nigeria,Tambawel
